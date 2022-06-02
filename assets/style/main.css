@@ -42,6 +42,11 @@
   box-sizing: border-box;
 }
 
+.pokemon-height{
+  max-height: 100vh;
+  overflow-y: auto;
+}
+
 .row-height{
   height: 100vh;
 }
